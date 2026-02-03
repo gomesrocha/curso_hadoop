@@ -1,0 +1,31 @@
+id_compra,data_compra,id_fornecedor,fornecedor,id_produto,produto,categoria,quantidade,preco_unitario,valor_total,status
+1,2024-01-01,501,Tech Supply,101,Notebook Dell,Eletrônicos,50,2800.00,140000.00,Entregue
+2,2024-01-02,502,Periféricos Brasil,102,Mouse Logitech,Periféricos,200,100.00,20000.00,Entregue
+3,2024-01-03,503,Teclados Premium,103,Teclado Mecânico,Periféricos,100,300.00,30000.00,Entregue
+4,2024-01-04,501,Tech Supply,104,Monitor LG 27,Eletrônicos,30,900.00,27000.00,Entregue
+5,2024-01-05,502,Periféricos Brasil,105,Webcam HD,Periféricos,80,200.00,16000.00,Entregue
+6,2024-01-06,503,Teclados Premium,101,Notebook Dell,Eletrônicos,25,2800.00,70000.00,Entregue
+7,2024-01-07,501,Tech Supply,102,Mouse Logitech,Periféricos,150,100.00,15000.00,Entregue
+8,2024-01-08,502,Periféricos Brasil,103,Teclado Mecânico,Periféricos,75,300.00,22500.00,Entregue
+9,2024-01-09,503,Teclados Premium,104,Monitor LG 27,Eletrônicos,20,900.00,18000.00,Entregue
+10,2024-01-10,501,Tech Supply,105,Webcam HD,Periféricos,60,200.00,12000.00,Entregue
+11,2024-01-11,502,Periféricos Brasil,101,Notebook Dell,Eletrônicos,40,2800.00,112000.00,Entregue
+12,2024-01-12,503,Teclados Premium,102,Mouse Logitech,Periféricos,180,100.00,18000.00,Entregue
+13,2024-01-13,501,Tech Supply,103,Teclado Mecânico,Periféricos,90,300.00,27000.00,Entregue
+14,2024-01-14,502,Periféricos Brasil,104,Monitor LG 27,Eletrônicos,35,900.00,31500.00,Entregue
+15,2024-01-15,503,Teclados Premium,105,Webcam HD,Periféricos,70,200.00,14000.00,Entregue
+16,2024-01-16,501,Tech Supply,101,Notebook Dell,Eletrônicos,30,2800.00,84000.00,Entregue
+17,2024-01-17,502,Periféricos Brasil,102,Mouse Logitech,Periféricos,160,100.00,16000.00,Entregue
+18,2024-01-18,503,Teclados Premium,103,Teclado Mecânico,Periféricos,85,300.00,25500.00,Entregue
+19,2024-01-19,501,Tech Supply,104,Monitor LG 27,Eletrônicos,25,900.00,22500.00,Entregue
+20,2024-01-20,502,Periféricos Brasil,105,Webcam HD,Periféricos,75,200.00,15000.00,Entregue
+21,2024-02-01,503,Teclados Premium,101,Notebook Dell,Eletrônicos,45,2800.00,126000.00,Entregue
+22,2024-02-02,501,Tech Supply,102,Mouse Logitech,Periféricos,170,100.00,17000.00,Entregue
+23,2024-02-03,502,Periféricos Brasil,103,Teclado Mecânico,Periféricos,95,300.00,28500.00,Entregue
+24,2024-02-04,503,Teclados Premium,104,Monitor LG 27,Eletrônicos,28,900.00,25200.00,Entregue
+25,2024-02-05,501,Tech Supply,105,Webcam HD,Periféricos,65,200.00,13000.00,Entregue
+26,2024-02-06,502,Periféricos Brasil,101,Notebook Dell,Eletrônicos,35,2800.00,98000.00,Entregue
+27,2024-02-07,503,Teclados Premium,102,Mouse Logitech,Periféricos,190,100.00,19000.00,Entregue
+28,2024-02-08,501,Tech Supply,103,Teclado Mecânico,Periféricos,80,300.00,24000.00,Entregue
+29,2024-02-09,502,Periféricos Brasil,104,Monitor LG 27,Eletrônicos,32,900.00,28800.00,Entregue
+30,2024-02-10,503,Teclados Premium,105,Webcam HD,Periféricos,72,200.00,14400.00,Entregue
