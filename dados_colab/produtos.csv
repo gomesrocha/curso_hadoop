@@ -1,0 +1,201 @@
+produto_id,nome_produto,categoria,preco
+101,Eletrônicos Item-1,Eletrônicos,164.02
+102,Casa e Cozinha Item-2,Casa e Cozinha,329.8
+103,Brinquedos Item-3,Brinquedos,569.97
+104,Eletrônicos Item-4,Eletrônicos,170.52
+105,Eletrônicos Item-5,Eletrônicos,450.69
+106,Ferramentas Item-6,Ferramentas,462.97
+107,Eletrônicos Item-7,Eletrônicos,386.99
+108,Ferramentas Item-8,Ferramentas,891.56
+109,Roupas Item-9,Roupas,421.83
+110,Esportes Item-10,Esportes,649.75
+111,Brinquedos Item-11,Brinquedos,14.11
+112,Ferramentas Item-12,Ferramentas,492.74
+113,Ferramentas Item-13,Ferramentas,123.09
+114,Roupas Item-14,Roupas,12.27
+115,Roupas Item-15,Roupas,163.02
+116,Eletrônicos Item-16,Eletrônicos,259.67
+117,Brinquedos Item-17,Brinquedos,878.33
+118,Eletrônicos Item-18,Eletrônicos,25.74
+119,Brinquedos Item-19,Brinquedos,275.29
+120,Esportes Item-20,Esportes,958.52
+121,Brinquedos Item-21,Brinquedos,374.0
+122,Esportes Item-22,Esportes,335.17
+123,Casa e Cozinha Item-23,Casa e Cozinha,434.03
+124,Eletrônicos Item-24,Eletrônicos,958.37
+125,Casa e Cozinha Item-25,Casa e Cozinha,383.28
+126,Casa e Cozinha Item-26,Casa e Cozinha,451.11
+127,Roupas Item-27,Roupas,185.43
+128,Roupas Item-28,Roupas,634.92
+129,Casa e Cozinha Item-29,Casa e Cozinha,194.09
+130,Livros Item-30,Livros,449.8
+131,Casa e Cozinha Item-31,Casa e Cozinha,134.77
+132,Brinquedos Item-32,Brinquedos,193.68
+133,Roupas Item-33,Roupas,504.14
+134,Eletrônicos Item-34,Eletrônicos,24.89
+135,Eletrônicos Item-35,Eletrônicos,251.45
+136,Esportes Item-36,Esportes,381.67
+137,Esportes Item-37,Esportes,132.82
+138,Brinquedos Item-38,Brinquedos,150.97
+139,Roupas Item-39,Roupas,486.59
+140,Ferramentas Item-40,Ferramentas,173.13
+141,Livros Item-41,Livros,766.94
+142,Brinquedos Item-42,Brinquedos,236.31
+143,Casa e Cozinha Item-43,Casa e Cozinha,445.39
+144,Livros Item-44,Livros,565.63
+145,Livros Item-45,Livros,200.32
+146,Casa e Cozinha Item-46,Casa e Cozinha,561.74
+147,Ferramentas Item-47,Ferramentas,931.65
+148,Eletrônicos Item-48,Eletrônicos,470.49
+149,Ferramentas Item-49,Ferramentas,961.16
+150,Brinquedos Item-50,Brinquedos,241.01
+151,Roupas Item-51,Roupas,615.24
+152,Esportes Item-52,Esportes,160.42
+153,Esportes Item-53,Esportes,75.76
+154,Casa e Cozinha Item-54,Casa e Cozinha,903.82
+155,Brinquedos Item-55,Brinquedos,595.68
+156,Eletrônicos Item-56,Eletrônicos,603.99
+157,Casa e Cozinha Item-57,Casa e Cozinha,51.78
+158,Livros Item-58,Livros,913.22
+159,Brinquedos Item-59,Brinquedos,959.5
+160,Roupas Item-60,Roupas,225.3
+161,Livros Item-61,Livros,358.18
+162,Eletrônicos Item-62,Eletrônicos,220.73
+163,Casa e Cozinha Item-63,Casa e Cozinha,126.58
+164,Casa e Cozinha Item-64,Casa e Cozinha,17.71
+165,Esportes Item-65,Esportes,153.03
+166,Casa e Cozinha Item-66,Casa e Cozinha,520.22
+167,Roupas Item-67,Roupas,718.55
+168,Esportes Item-68,Esportes,888.63
+169,Casa e Cozinha Item-69,Casa e Cozinha,182.26
+170,Casa e Cozinha Item-70,Casa e Cozinha,563.96
+171,Roupas Item-71,Roupas,851.85
+172,Eletrônicos Item-72,Eletrônicos,106.18
+173,Roupas Item-73,Roupas,570.43
+174,Ferramentas Item-74,Ferramentas,539.92
+175,Esportes Item-75,Esportes,998.59
+176,Brinquedos Item-76,Brinquedos,78.06
+177,Ferramentas Item-77,Ferramentas,51.54
+178,Livros Item-78,Livros,393.21
+179,Roupas Item-79,Roupas,606.55
+180,Esportes Item-80,Esportes,878.32
+181,Brinquedos Item-81,Brinquedos,579.12
+182,Ferramentas Item-82,Ferramentas,261.94
+183,Eletrônicos Item-83,Eletrônicos,14.92
+184,Esportes Item-84,Esportes,667.58
+185,Casa e Cozinha Item-85,Casa e Cozinha,572.08
+186,Casa e Cozinha Item-86,Casa e Cozinha,589.11
+187,Esportes Item-87,Esportes,281.95
+188,Casa e Cozinha Item-88,Casa e Cozinha,817.81
+189,Ferramentas Item-89,Ferramentas,769.18
+190,Brinquedos Item-90,Brinquedos,993.61
+191,Eletrônicos Item-91,Eletrônicos,516.21
+192,Livros Item-92,Livros,345.66
+193,Eletrônicos Item-93,Eletrônicos,816.63
+194,Esportes Item-94,Esportes,971.74
+195,Livros Item-95,Livros,567.38
+196,Ferramentas Item-96,Ferramentas,888.84
+197,Ferramentas Item-97,Ferramentas,619.02
+198,Eletrônicos Item-98,Eletrônicos,165.37
+199,Roupas Item-99,Roupas,35.75
+200,Livros Item-100,Livros,677.73
+201,Casa e Cozinha Item-101,Casa e Cozinha,929.16
+202,Livros Item-102,Livros,120.02
+203,Casa e Cozinha Item-103,Casa e Cozinha,118.55
+204,Esportes Item-104,Esportes,230.16
+205,Casa e Cozinha Item-105,Casa e Cozinha,922.8
+206,Roupas Item-106,Roupas,362.52
+207,Eletrônicos Item-107,Eletrônicos,645.35
+208,Esportes Item-108,Esportes,83.76
+209,Brinquedos Item-109,Brinquedos,320.52
+210,Casa e Cozinha Item-110,Casa e Cozinha,751.16
+211,Casa e Cozinha Item-111,Casa e Cozinha,655.22
+212,Casa e Cozinha Item-112,Casa e Cozinha,499.55
+213,Brinquedos Item-113,Brinquedos,186.16
+214,Roupas Item-114,Roupas,12.83
+215,Eletrônicos Item-115,Eletrônicos,232.37
+216,Roupas Item-116,Roupas,240.5
+217,Roupas Item-117,Roupas,87.31
+218,Brinquedos Item-118,Brinquedos,991.16
+219,Livros Item-119,Livros,337.67
+220,Eletrônicos Item-120,Eletrônicos,481.72
+221,Esportes Item-121,Esportes,988.18
+222,Roupas Item-122,Roupas,622.63
+223,Esportes Item-123,Esportes,817.05
+224,Brinquedos Item-124,Brinquedos,365.76
+225,Roupas Item-125,Roupas,648.04
+226,Eletrônicos Item-126,Eletrônicos,725.84
+227,Esportes Item-127,Esportes,977.67
+228,Esportes Item-128,Esportes,705.81
+229,Casa e Cozinha Item-129,Casa e Cozinha,103.82
+230,Brinquedos Item-130,Brinquedos,489.3
+231,Esportes Item-131,Esportes,776.76
+232,Esportes Item-132,Esportes,132.82
+233,Brinquedos Item-133,Brinquedos,962.48
+234,Eletrônicos Item-134,Eletrônicos,493.41
+235,Ferramentas Item-135,Ferramentas,560.09
+236,Livros Item-136,Livros,934.96
+237,Livros Item-137,Livros,171.45
+238,Brinquedos Item-138,Brinquedos,93.63
+239,Esportes Item-139,Esportes,543.15
+240,Ferramentas Item-140,Ferramentas,630.76
+241,Roupas Item-141,Roupas,919.23
+242,Eletrônicos Item-142,Eletrônicos,613.41
+243,Casa e Cozinha Item-143,Casa e Cozinha,128.94
+244,Esportes Item-144,Esportes,146.83
+245,Roupas Item-145,Roupas,787.93
+246,Livros Item-146,Livros,827.76
+247,Eletrônicos Item-147,Eletrônicos,523.86
+248,Ferramentas Item-148,Ferramentas,671.15
+249,Roupas Item-149,Roupas,479.59
+250,Livros Item-150,Livros,424.67
+251,Ferramentas Item-151,Ferramentas,820.99
+252,Esportes Item-152,Esportes,522.78
+253,Eletrônicos Item-153,Eletrônicos,495.13
+254,Livros Item-154,Livros,108.49
+255,Livros Item-155,Livros,658.88
+256,Eletrônicos Item-156,Eletrônicos,841.6
+257,Brinquedos Item-157,Brinquedos,601.41
+258,Livros Item-158,Livros,45.31
+259,Roupas Item-159,Roupas,942.33
+260,Livros Item-160,Livros,821.52
+261,Esportes Item-161,Esportes,681.63
+262,Casa e Cozinha Item-162,Casa e Cozinha,610.64
+263,Eletrônicos Item-163,Eletrônicos,267.77
+264,Eletrônicos Item-164,Eletrônicos,365.61
+265,Ferramentas Item-165,Ferramentas,720.66
+266,Eletrônicos Item-166,Eletrônicos,110.82
+267,Livros Item-167,Livros,509.83
+268,Casa e Cozinha Item-168,Casa e Cozinha,189.43
+269,Casa e Cozinha Item-169,Casa e Cozinha,939.26
+270,Casa e Cozinha Item-170,Casa e Cozinha,589.95
+271,Ferramentas Item-171,Ferramentas,119.41
+272,Livros Item-172,Livros,819.03
+273,Casa e Cozinha Item-173,Casa e Cozinha,425.91
+274,Casa e Cozinha Item-174,Casa e Cozinha,847.33
+275,Ferramentas Item-175,Ferramentas,654.18
+276,Casa e Cozinha Item-176,Casa e Cozinha,775.63
+277,Roupas Item-177,Roupas,562.02
+278,Esportes Item-178,Esportes,942.1
+279,Ferramentas Item-179,Ferramentas,178.61
+280,Livros Item-180,Livros,875.7
+281,Brinquedos Item-181,Brinquedos,488.8
+282,Roupas Item-182,Roupas,301.01
+283,Eletrônicos Item-183,Eletrônicos,394.64
+284,Casa e Cozinha Item-184,Casa e Cozinha,179.14
+285,Livros Item-185,Livros,966.07
+286,Casa e Cozinha Item-186,Casa e Cozinha,749.59
+287,Livros Item-187,Livros,654.7
+288,Brinquedos Item-188,Brinquedos,974.68
+289,Eletrônicos Item-189,Eletrônicos,569.79
+290,Esportes Item-190,Esportes,43.48
+291,Eletrônicos Item-191,Eletrônicos,416.27
+292,Livros Item-192,Livros,979.07
+293,Eletrônicos Item-193,Eletrônicos,765.55
+294,Ferramentas Item-194,Ferramentas,392.57
+295,Casa e Cozinha Item-195,Casa e Cozinha,754.19
+296,Esportes Item-196,Esportes,742.9
+297,Esportes Item-197,Esportes,588.76
+298,Esportes Item-198,Esportes,561.35
+299,Brinquedos Item-199,Brinquedos,331.52
+300,Roupas Item-200,Roupas,268.66
