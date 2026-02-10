@@ -10,10 +10,21 @@ O Apache Hadoop é um framework open-source que permite o processamento distribu
 2.  **YARN (Yet Another Resource Negotiator):** O gerenciador de recursos do cluster, responsável por alocar CPU e memória para as aplicações.
 3.  **MapReduce:** Um modelo de programação para processamento de dados em paralelo. Embora ainda seja usado, o Apache Spark (que veremos no próximo módulo) tornou-se a alternativa mais moderna e eficiente.
 
+[Informações sobre o ecossistema hadoop](https://hadoopecosystemtable.github.io/)
+
 ### Laboratórios
 
 Aula 2 - Prática com Hadoop no Colab - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lsYb7xP6gFk-Zwyzwl0Hkbk3aWIQ5KpK?usp=sharing)
 
 Aula 3 - Prática com Spark no colab - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QlQiUuRNcbWFW3xLuY1BoUWlrPyZGxL8?usp=sharing)
 
+### Apostila
+
+
+
+### Apresentação
+
+
+### Dataset
+[Brasilian e-commerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
