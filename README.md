@@ -20,10 +20,13 @@ Aula 3 - Prática com Spark no colab - [![Open In Colab](https://colab.research.
 
 ### Apostila
 
+[Haddop](https://github.com/gomesrocha/curso_hadoop/blob/main/apostila/Hadoop.md)
+
+[PySpark](https://github.com/gomesrocha/curso_hadoop/blob/main/apostila/apostila_completa_pyspark.md)
 
 
 ### Apresentação
-
+[Introdução ao Ecossistema Hadoop](https://github.com/gomesrocha/curso_hadoop/blob/main/apresenta%C3%A7%C3%A3o/Introducao-ao-Ecossistema-Hadoop.pdf)
 
 ### Dataset
 [Brasilian e-commerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
