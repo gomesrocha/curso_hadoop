@@ -18,7 +18,7 @@ Aula 2 - Prática com Hadoop no Colab - [![Open In Colab](https://colab.research
 
 Aula 3 - Prática com Spark no colab - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QlQiUuRNcbWFW3xLuY1BoUWlrPyZGxL8?usp=sharing)
 
-Aula 4 - Prática de Machine Learning com Spark [![Open In Colab](https://colab.research.google.com/drive/12__JXjdPyerusuw_1TaeiCBcH-31Aske?usp=sharing)
+Aula 4 - Prática de Machine Learning com Spark [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12__JXjdPyerusuw_1TaeiCBcH-31Aske?usp=sharing)
 
 ### Apostila
 
